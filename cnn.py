@@ -11,7 +11,7 @@ from tensorflow.keras.optimizers import RMSprop
 from tensorflow.keras.preprocessing.image import ImageDataGenerator  # veri artırımı için
 from sklearn.metrics import classification_report
 import warnings
-
+import os
 warnings.filterwarnings("ignore")
 
 
